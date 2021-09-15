@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @trob15
 - 👀 I’m interested in data science, applied mathematics and statistics.
 - 🌱 I’m currently learning to compete on Kaggle.
-- 💞️ I’m looking to collaborate on data science projects. 
+- 💞️ I’m looking to collaborate on suitable data science projects. 
 - 📫 Email: trob15@protonmail.com
 
 <!---
